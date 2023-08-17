@@ -28,7 +28,6 @@ internal class Program
 
         int total = 0;//Общая стоимость всех этажей
 
-
         for (int i = 0; i < numOfGroup; i++)
         {
             if (i == numOfGroup - 1 && smallGroup > 0)
